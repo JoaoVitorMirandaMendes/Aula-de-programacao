@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<title> Aula 4</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial scale=1">
+<meta name="author" content="Joao Vitor">
+<meta name="keyboards" content="exercícios, html5, design, webdesign, design visual, universidade positivo>
+<meta name="description" content=" exercícios de html5 para turma de design visual da universidade positivo">
+<head>
+
+<title> Aula 4</title>
+
+</head>
+<h1> Listas</h1>
+<h2>Listas ordenadas</h2>
+<ol>
+	<li> Item 1</li>
+	<li>Item 2</li>
+	<li> Item 3</li>
+</ol>
+<h2>Listas não ordenadas</h2>
+<ul>
+	<li> Item 1</li>
+    <li>Item 2</li>
+    <li> Item 3</li>
+    </ul>
+    <h2>Listas com definições</h2>
+    <dl>
+    	<dt>Segunda Feira</dt>
+    	<dd>Linguagem de programação</dd>
+    	<dt>Terça Feira</dt>
+    	<dd> Projeto Empreendedor</dd>
+    	<dt>Quarta Feira</dt>
+    	<dd> Design da Informação</dd>
+    	<dt>Quinta Feira</dt>
+    	<dd> Soluções em design Visual</dd>
+    </dl>
+    <h2>Tabelas</h2>
+    <table>
+    	<tr>
+    		<th>Nome</th><th>1ºBimestre</th><th>2ºBimestre</th><th>Total</th>
+    	</tr>
+    	<tr>
+    		<td>João Vitor</td><td>1,0</td><td>2,0</td><td>3,0</td>
+    	</tr>
+    	<tr>
+    		<td>Ana</td><td>2,0</td><td>1,0</td><td>3,0</td>
+    	</tr>
+    </table>
+    <p class="destaque">Texto em Destaque</p>
+    <p class="pequeno">Texto pequeno</p>
+    <body>
+    	<header>
+    		
+    	</header>
+    </body>
+    </html>
